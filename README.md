@@ -1,2 +1,2 @@
-# website_game-
+# website_game
 HTML, JS, PHP
